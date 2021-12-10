@@ -1,6 +1,11 @@
-### Hi there 👋
+### Mister_XID 
 
 <img align="right" alt="GIF" height="220" width="350"  src="https://i.ibb.co/dLMpTYF/20210524-003826.jpg" />
+<p align="center">
+<a href="https://twitter.com/misterxid8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kro" height="20" width="20" /></a>
+<a href="https://t.me/misterxid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kro" height="20" width="20" /></a>
+<a href="https://youtube.com/channel/UCh7sfNG42tctGaJ0UjUh9PQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kro" height="20" width="20" /></a>
+</p>
 <!--
 **misterxid/misterxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
