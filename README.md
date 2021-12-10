@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="right" alt="GIF" height="250" width="250"  src="https://i.ibb.co/dLMpTYF/20210524-003826.jpg" />
 <!--
 **misterxid/misterxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
